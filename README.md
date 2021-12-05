@@ -22,8 +22,31 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 #
 
 ## AsTeRICs Grid
-HIER TEXT - WAS IST GRID
+# WAS IST DAS
 
+![](Images_Grid_Kitchen/01_Main_Grid.jpg)
+
+# TEXT
+
+![](Images_Grid_Kitchen/02_MainKüche_Grid.jpg)
+
+# TEXT
+
+![](Images_Grid_Kitchen/03_TemperaturMain_Grid.jpg)
+
+# TEXT
+
+![](Images_Grid_Kitchen/04_LichtDimmenMain_Grid.jpg)
+
+# TEXT
+
+![](Images_Grid_Kitchen/05_Küche_Beamer_Grid.jpg)
+
+# TEXT
+
+![](Images_Grid_Kitchen/06_Radiosteuerung_Grid.jpg)
+
+# TEXT
 
 ## FABI - Eingabegerät
 HIER TEXT  - WAS IST FABI

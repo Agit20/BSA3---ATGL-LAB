@@ -50,7 +50,7 @@ Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung ent
 
 (Auch die Kontrasteinstellungen wurden ihren Bedürfnissen gerecht gemacht, da sie wie in der Beschreibung bereits vermerkt, nur Texte und Bilder, die unter einem starken Kontrast stehen, warnehmen kann)
 
-###Bildschirmlupe - Einstellungen
+### Bildschirmlupe - Einstellungen
 
 ![](Images_Kitchen/Lupe_MAC.jpeg)
 ![](Images_Kitchen/Lupe_MAC2.jpeg)

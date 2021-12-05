@@ -24,5 +24,6 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung entsprechend den Bedürfnissen der Klientin Sandra:
 
 1. Unter Systemeinstellungen den Unterpunkt „Bedienungshilfen“ anklicken
+![] (MAC_Settings1.jpeg)
 
 

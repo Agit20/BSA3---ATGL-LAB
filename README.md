@@ -25,8 +25,8 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 HIER TEXT - WAS IST GRID
 
 
-
-
+## FABI - Eingabegerät
+HIER TEXT  - WAS IST FABI
 
 
 

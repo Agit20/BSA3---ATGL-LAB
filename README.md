@@ -32,7 +32,7 @@ HIER TEXT  - WAS IST FABI
 
 
 
-## Accesibility
+## Accesibility (iOS)
 HIER KOMMT EIN TEXT
 ### Farbkorrektur - Einstellungen
 Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung entsprechend den Bedürfnissen der Klientin Sandra:
@@ -47,3 +47,14 @@ Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung ent
 
 3. Kontrasteinstellungen unter dem Navigationspunkt „Display“ modifizieren.
 ![](Images_Kitchen/MAC_Settings4.jpeg)
+
+(Auch die Kontrasteinstellungen wurden ihren Bedürfnissen gerecht gemacht, da sie wie in der Beschreibung bereits vermerkt, nur Texte und Bilder, die unter einem starken Kontrast stehen, warnehmen kann)
+
+###Bildschirmlupe - Einstellungen
+
+![](Images_Kitchen/Lupe_MAC.jpeg)
+![](Images_Kitchen/Lupe_MAC2.jpeg)
+
+(Hier sieht man die Einstellungen, welche die Bildschirmlupe aktivieren. Die Bildschirmlupe folgt der Maus in einem angemessenen Tempo. Sie wird benötigt, um der Sehschwäche der Klientin entgegenzuwirken)
+
+

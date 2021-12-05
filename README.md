@@ -26,4 +26,6 @@ Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung ent
 1. Unter Systemeinstellungen den Unterpunkt „Bedienungshilfen“ anklicken
 ![](Images_Kitchen/MAC_Settings1.jpeg)
 
+2. „Anzeige“ im Unterreiter „Sehen“ anklicken und den Filtertyp auswählen, nachdem man den Navigationspunkt „Farbfilter“ ausgewählt hat
 
+![](Images_Kitchen/MAC_Settings2.jpeg)

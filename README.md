@@ -32,9 +32,9 @@ HIER TEXT  - WAS IST FABI
 
 
 
-## Betriebssystemeinstellungen
+## Accesibility
 HIER KOMMT EIN TEXT
-### Accesibility Einstellungen
+### Farbkorrektur - Einstellungen
 Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung entsprechend den Bedürfnissen der Klientin Sandra:
 
 1. Unter Systemeinstellungen den Unterpunkt „Bedienungshilfen“ anklicken

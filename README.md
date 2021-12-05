@@ -18,7 +18,7 @@ Dass sie dennoch über gewisse körperliche Funktionen verfügt, ermöglicht ein
 
  
 
-Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elektrogeräte wie Fernseher, Musikanlage und ihre Spielzeuge, selbstständig steuern zu können. Außerdem möchte sie den Computer insofern steuern können, sodass sie im Internet surfen und E-Mails schreiben bzw. auf diese antworten kann. Zusätzlich würde sie gerne Klänge erzeugen, Computerspiele adaptieren und Visuals mit Hilfe von Phillips Hue Go oder Infrarot Lampen kreieren. Als letzten Wunsch formulierte sie, ihr SmartPhone für kommunikative Funktionen  
+Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elektrogeräte wie Fernseher, Musikanlage und ihre Spielzeuge, selbstständig steuern zu können. Außerdem möchte sie den Computer insofern steuern können, sodass sie im Internet surfen und E-Mails schreiben bzw. auf diese antworten kann. Zusätzlich würde sie gerne Klänge erzeugen, Computerspiele adaptieren und Visuals mit Hilfe von Phillips Hue Go oder Infrarot Lampen kreieren. Als letzten Wunsch formulierte sie, ihr SmartPhone für kommunikative Funktionen wie Anrufe tätigen und SMS schreiben, ohne jegliche Hilfe verwenden zu wollen.
 
-wie Anrufe tätigen und SMS schreiben, ohne jegliche Hilfe verwenden zu wollen.
+
 

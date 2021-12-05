@@ -4,7 +4,7 @@
 #
 #
 ### Aufgabenstellung
-#
+# TEXT
 ### Klientin Kurzbeschreibung
 Die Klientin Sandra möchte sich ihren körperlichen Einschränkungen mit Hilfe der modernen Technologie, die wir zur Verfügung haben, widersetzen. Da sie abgesehen von ihren physischen Barrieren, auch eine signifikante Sehschwäche hat, ist die Klientin in ihrer Selbstständigkeit stark limitiert. Das Ziel ist es, ihr eine gewisse Autonomie zurückzugewinnen.  
 

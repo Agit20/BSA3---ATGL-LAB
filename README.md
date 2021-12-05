@@ -48,11 +48,10 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 
 # TEXT
 
-## FABI - Eingabegerät
-HIER TEXT  - WAS IST FABI
-Bilder dies das
+## Eingabegeräte
+# was das
 
-## IR-Trans - Eingabegerät
+### FABI - Eingabegerät
 # HIER TEXT/BILD
 # HIER TEXT/BILD
 ### Konfiguration
@@ -61,8 +60,14 @@ Bilder dies das
 ### Anwendung
 # HIER TEXT/BILD
 
-
-
+### IR-Trans - Eingabegerät
+# HIER TEXT/BILD
+# HIER TEXT/BILD
+### Konfiguration
+# HIER TEXT/BILD
+# HIER TEXT/BILD
+### Anwendung
+# HIER TEXT/BILD
 
 ## Accesibility (iOS)
 HIER KOMMT EIN TEXT

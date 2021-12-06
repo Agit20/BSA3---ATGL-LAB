@@ -66,13 +66,28 @@ ILD
 # HIER TEXT/BILD
 
 ### IR-Trans - Eingabegerät
-# HIER TEXT/BILD
-# HIER TEXT/BILD
-### Konfiguration
-# HIER TEXT/BILD
-# HIER TEXT/BILD
-### Anwendung
-# HIER TEXT/BILD
+
+Der erste Schritt mit dem IR Trans war es die Applikation zu installieren und die IR zu starten.
+
+![](Images_Kitchen/IR_running.PNG)
+
+Danach wurde zur ersten Probe ein IR Signal eingelesen und wieder ausgegeben.
+
+Beim eingeben musste zuerst oben ein „remote name“ festgelegt werden und danach ein Signalname eingestellt werden. Beim ausgeben wurde die Fernbedienung ausgewählt und dazu das zugehörige Signal.
+
+![](Images_Kitchen/IR_ein.PNG)
+
+![](Images_Kitchen/Ir_einst.PNG)
+
+![](Images_Kitchen/IR_aus.PNG)
+
+Um dies nun mit der ARE (Asterics runtime) zu verknüpfen musste zuerst der Funktionsblock eingestellt werden. Dazu wurde zunächst beim „hostname“ der „localhost“ eingestellt. Dann musste der PORT auf 21000 eingestellt werden. Beim schicken des Signals ist es dann sinnvoll beim „prestring “(Der Teil der vor jedem anderen Signal geschickt wird) den Namen der oben erstellten Fernbedienung zu nehmen und bei den „sends“ nur noch den Namen der Signale einzustellen. Aufpassen sollte man jedoch sehr, da bei einem Leerzeichen zu viel das Programm nicht mehr funktioniert. 
+
+![](Images_Kitchen/IR_ast.PNG)
+
+Um dies nun auszuführen kann man in der Asterics-Grid eine „Action“ einstellen. Dazu musste nur noch die Komponente ausgewählt werden und das Signal 1 geschickt werden.
+
+![](Images_Kitchen/IR_grid.PNG)
 
 ## Accesibility (iOS)
 HIER KOMMT EIN TEXT

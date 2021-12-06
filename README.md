@@ -52,18 +52,31 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 # was das
 
 ### FABI - Eingabegerät
-# HIER TEXT/BILD
-# HIER TEXT/BILD
-### Konfiguration
-# HIER TEXT/BILD
-# HIER TEXT/B
+- Text?
+
+![](Images_Kitchen/FabiConfig_Mainpage.jpg)
+
+- Text?
+
+![](Images_Kitchen/FabiConfig_Acceleratebutton.jpg)
+
+- Text?
+
+![](Images_Kitchen/FabiConfig_Breakbutton.jpg)
+
+- Text?
+
+![](Images_Kitchen/HillClimbRaceGame01.jpg)
+
+- Text?
+
+![](Images_Kitchen/HillClimbRaceGame02.jpg)
+
+- Text?
 
 https://user-images.githubusercontent.com/95447783/144845615-9a4815f1-15b3-4475-b079-d19f37f21ede.mp4
 
-ILD
-### Anwendung
-
-# HIER TEXT/BILD
+- Text?
 
 ### IR-Trans - Eingabegerät
 

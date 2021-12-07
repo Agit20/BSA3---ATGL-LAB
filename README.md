@@ -103,7 +103,9 @@ Um dies nun auszuführen kann man in der Asterics-Grid eine „Action“ einstel
 ![](Images_Kitchen/IR_grid.PNG)
 
 ## Accesibility (iOS)
-HIER KOMMT EIN TEXT
+
+Das iOS-Betriebssystem enthält Barrierefreiheitsfunktionen, von denen Sie in vielerlei Hinsicht profitieren können – körperliche Aktivität und motorische Fähigkeiten, Zuhören und Lernen sowie viele Interaktionen. Wir erklären Ihnen, wie Sie diese Funktionen konfigurieren und Shortcuts einrichten, um gezielt auf jede Funktion zuzugreifen.
+
 ### Farbkorrektur - Einstellungen
 Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung entsprechend den Bedürfnissen der Klientin Sandra:
 
@@ -126,5 +128,9 @@ Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung ent
 ![](Images_Kitchen/Lupe_MAC2.jpeg)
 
 (Hier sieht man die Einstellungen, welche die Bildschirmlupe aktivieren. Die Bildschirmlupe folgt der Maus in einem angemessenen Tempo. Sie wird benötigt, um der Sehschwäche der Klientin entgegenzuwirken)
+
+### Siri - Anwendung
+
+https://user-images.githubusercontent.com/95447783/145010899-61f14d02-ce41-41c3-a699-3b0ea9cd9658.mp4
 
 

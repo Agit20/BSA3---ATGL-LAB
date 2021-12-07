@@ -122,6 +122,8 @@ Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung ent
 
 (Auch die Kontrasteinstellungen wurden ihren Bedürfnissen gerecht gemacht, da sie wie in der Beschreibung bereits vermerkt, nur Texte und Bilder, die unter einem starken Kontrast stehen, warnehmen kann)
 
+https://user-images.githubusercontent.com/95447783/145011435-095a7594-e634-46a9-83b1-e51f39a477a6.mp4
+
 ### Bildschirmlupe - Einstellungen
 
 ![](Images_Kitchen/Lupe_MAC.jpeg)
@@ -129,8 +131,13 @@ Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung ent
 
 (Hier sieht man die Einstellungen, welche die Bildschirmlupe aktivieren. Die Bildschirmlupe folgt der Maus in einem angemessenen Tempo. Sie wird benötigt, um der Sehschwäche der Klientin entgegenzuwirken)
 
-### Siri - Anwendung
+### Siri - Anwendung (Nachricht)
 
 https://user-images.githubusercontent.com/95447783/145010899-61f14d02-ce41-41c3-a699-3b0ea9cd9658.mp4
+
+### Siri - Anwendung (Anruf)
+
+https://user-images.githubusercontent.com/95447783/145011288-497be48a-d371-412f-82ae-c16f9ab96462.mp4
+
 
 

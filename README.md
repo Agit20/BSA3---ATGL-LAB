@@ -22,7 +22,7 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 #
 
 ## AsTeRICs Grid
-# WAS IST DAS
+# Raumauswahl Grid
 
 ![](Images_Grid_Kitchen/01_Main_Grid.jpg)
 

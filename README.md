@@ -26,15 +26,15 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 
 ![](Images_Grid_Kitchen/01_Main_Grid.jpg)
 
-# TEXT
+Das Hauptmenü umfasst die eine Auswahl der 3 verschiedenen Räume.
 
 ![](Images_Grid_Kitchen/02_MainKüche_Grid.jpg)
 
-# TEXT
+Dies ist das Speziele Grid für die Küche mann kann Licht allgemein ein/ausschalten zudem kann man über eine weitere Schaltfläche in ein untermenü navigiert werden, um die Leds zu dimmen. Um die Temperatur einzustellen, öffnet sich wiederum ein neues Grid. Im Grid Beamer kann der Beamer im Wohnzimmer gesteuert werden. Die Jalousien werden nach Druck auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter/hinauf bewegt, es sei denn es wird "Jalousien STOPP" gedrückt. Zudem verfügt das Grid über ein Radio untergrid.
 
 ![](Images_Grid_Kitchen/03_TemperaturMain_Grid.jpg)
 
-# TEXT
+Im Temperaturgrid kann die Temperatur auf 20°C, 22°C, 24°C eingestellt werden. Weitere befehle erlauben es die Heizung EIN oder AUS zuschalten sowie Abzusenken.
 
 ![](Images_Grid_Kitchen/04_LichtDimmenMain_Grid.jpg)
 

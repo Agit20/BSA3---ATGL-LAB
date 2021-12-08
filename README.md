@@ -183,4 +183,4 @@ FlipMouse Befestigung und Verwendung der Buttuns vom Fabi
 
 An dieser Stelle möchte ich mich ausdrücklich bei Dieter Stifter für die tolle Zusammenarbeit und die Bereitstellung seines Laptops bedanken. Es wurden alle Ein- / Ausgabegeräte für alle 3 Gruppen gleichzeitig angeschlossen. Auch wenn bei der Befestigung mit Klebeband und Co improvisiert wurde, hielt sein Laptop tapfer stand und es funktionierte alles wie erwartet.
 
-# Danke Dieter :-)
+# Danke Dieter 🤟

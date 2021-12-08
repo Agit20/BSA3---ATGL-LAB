@@ -26,7 +26,7 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 
 ![](Images_Grid_Kitchen/01_Main_Grid.jpg)
 
-Das Hauptmenü umfasst die eine Auswahl der 3 verschiedenen Räume.
+Das Hauptmenü umfasst eine Auswahl der 3 verschiedenen Räume.
 
 ![](Images_Grid_Kitchen/02_MainKüche_Grid.jpg)
 

@@ -1,6 +1,6 @@
 # ATGL - LAB Protokoll | Düzgün, Li und Wimmer
 #
-## Use Case - Sandra
+## Use Case - Sandra | Küche
 #
 #
 ### Aufgabenstellung

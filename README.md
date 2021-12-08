@@ -152,3 +152,17 @@ https://user-images.githubusercontent.com/95447783/145011288-497be48a-d371-412f-
 ## Der Aufbau
 
 ![](Aufbau_Sandra/01_Rollstuhl.jpeg)
+
+Rollstuhl mit den Anbauteilen, Flip Mouse, Fabi inkl. 2 Buttons und Laptop mit Tobii und Verkabelung.
+
+![](Aufbau_Sandra/02_SeitlicherAufbau.jpeg)
+
+Seitenansicht mit blick auf die Halterung. Diese wurde am Rollstuhl mit einer Schraubklemme befestigt.
+
+![](Aufbau_Sandra/03_Laptopbildschirm.jpeg)
+
+Verwendung der Buttons und dem Fabi mit der Scanning Funktion am Grid
+
+![](Aufbau_Sandra/04_FlipmousPC.jpeg)
+
+FlipMouse Befestigung und Verwendung der Buttuns vom Fabi

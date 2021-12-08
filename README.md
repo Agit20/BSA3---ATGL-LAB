@@ -4,7 +4,8 @@
 #
 #
 ### Aufgabenstellung
-# TEXT
+Es soll für die Klientin Sandra entsprechend der Angaben eine Lösung erarbeitet werden wodurch Sie ihren Alltag leichter bestreiten kann. Dazu haben wir mit AsTeRICS Grid, einige Bedienoberflächen kreiert und konfiguriert, dadurch wird eine Bedienung der Geräte ermöglicht. Darüber hinaus kann sie auch Spiele spielen. Die Eingabegeräte (FlipMouse & Fabi) wurden entsprechend ihrer Einschränkungen angepasst.
+
 ### Klientin Kurzbeschreibung
 Die Klientin Sandra möchte sich ihren körperlichen Einschränkungen mit Hilfe der modernen Technologie, die wir zur Verfügung haben, widersetzen. Da sie abgesehen von ihren physischen Barrieren, auch eine signifikante Sehschwäche hat, ist die Klientin in ihrer Selbstständigkeit stark limitiert. Das Ziel ist es, ihr eine gewisse Autonomie zurückzugewinnen.  
 

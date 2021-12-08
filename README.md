@@ -45,9 +45,13 @@ Im Temperaturgrid kann zwischen 3 Temperaturen 20°C, 22°C und 24°C gewählt w
 
 Die Lichtsteuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst. Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% und 65% gedimmt werden.
 
+### Beamersteuerung - Küche
+
 ![](Images_Grid_Kitchen/05_Küche_Beamer_Grid.jpg)
 
 Im Beamer Grid kann wie bereits erwähnt der Beamer im Wohnzimmer gesteuert werden. Es besteht die Möglichkeit den Beamer Ein & Aus zuschalten sowie die verwendete Quelle auf HDMI2 zu wechseln. (Verwendeter Eingang)
+
+### Sharing Grid - WEB-Radio
 
 ![](Images_Grid_Kitchen/06_Radiosteuerung_Grid.jpg)
 

@@ -135,6 +135,7 @@ Eine Anleitung (Betriebssystem: MacOS) zur Farbkorrektur / Kontrasterhöhung ent
 2. „Anzeige“ im Unterreiter „Sehen“ anklicken und den Filtertyp auswählen, nachdem man den Navigationspunkt „Farbfilter“ ausgewählt hat
 
 ![](Images_Kitchen/MAC_Settings2.jpeg)
+
 ![](Images_Kitchen/MAC_Settings3.jpeg)
 
 3. Kontrasteinstellungen unter dem Navigationspunkt „Display“ modifizieren.
@@ -147,6 +148,7 @@ https://user-images.githubusercontent.com/95447783/145011435-095a7594-e634-46a9-
 ### Bildschirmlupe - Einstellungen
 
 ![](Images_Kitchen/Lupe_MAC.jpeg)
+
 ![](Images_Kitchen/Lupe_MAC2.jpeg)
 
 (Hier sieht man die Einstellungen, welche die Bildschirmlupe aktivieren. Die Bildschirmlupe folgt der Maus in einem angemessenen Tempo. Sie wird benötigt, um der Sehschwäche der Klientin entgegenzuwirken)

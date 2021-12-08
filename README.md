@@ -27,6 +27,8 @@ Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elek
 
 Das Hauptmenü umfasst eine Auswahl der 3 verschiedenen Räume. Es werden Raumspezifische und sogenannte "Sharing Grid's" verwendet. Die Sharing Grid's sind für alle Räume gleich und wurden für eine leichtere Anpassung und wieder Erkennbarkeit speziell als solche gestaltet. 
 
+### Küchen Main Grid
+
 ![](Images_Grid_Kitchen/02_MainKüche_Grid.jpg)
 
 Dies ist das eigentliche Küchen Grid, man kann Licht allgemein ein/ausschalten (Esstisch & Arbeitslicht) zudem kann man über eine weitere Schaltfläche in ein Untermenü navigieren, um das Deckenlicht zu dimmen. Um die Temperatur einzustellen, öffnet sich wiederum ein neues Grid. Im Grid Beamer kann der Beamer im Wohnzimmer gesteuert werden. Die Jalousien werden nach Klick auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter bzw. hinauf gefahren, mit dem Befehl "Jalousien STOP" bleiben diese an der aktuellen Position stehen. Zudem verfügt das Grid über ein Radio Untergrid.  

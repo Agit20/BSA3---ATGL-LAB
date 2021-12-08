@@ -82,6 +82,11 @@ Kurzes Video beim spielen mit Fabi und den 2 Buttons via Fabi
 
 ![](Images_Kitchen/FlipMouse_Küche.jpg)
 
+Konfiguration derFlip Mouse am WEB Interface für die Funktion als Maus
+
+### Flip Mouse - Evaluierung
+
+![](Images_Kitchen/FittsTaskFlipMouse.jpg)
 
 ### IR-Trans - Ausgabegerät
 

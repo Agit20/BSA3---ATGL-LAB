@@ -151,3 +151,4 @@ https://user-images.githubusercontent.com/95447783/145011288-497be48a-d371-412f-
 
 ## Der Aufbau
 
+![](Aufbau_Sandra/01_Rollstuhl.jpeg)

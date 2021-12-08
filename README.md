@@ -53,15 +53,15 @@ Das Radio Grid erlaubt es verschiedene voreingestellte Radiosender auszuwählen 
 Als zusätzliche Eingabegeräte wurden die FlipMouse und das Fabi verwendet. Diese wurden entsprechend konfiguriert
 
 ### FABI - Eingabegerät
-- Text?
+Am Fabi wurden 2 Taster angeschlossen welche im WEB - Interface als Pfeil "links" und "rechts konfiguriert. Dadurch konnte Sandra das Spiel "HillClimbRacer" spielen.
 
 ![](Images_Kitchen/FabiConfig_Mainpage.jpg)
 
-- Text?
+Konfiguration von Taster 2 im WEB - Interface als Pfeil "Rechts" Dadurch kann Sandra beim Spiel "Hill Climb Racer" Gas geben.
 
 ![](Images_Kitchen/FabiConfig_Acceleratebutton.jpg)
 
-- Text?
+Konfiguration von Taster 1 im WEB - Interface als Pfeil "Links" Dadurch kann Sandra beim Spiel "Hill Climb Racer" bremsen.
 
 ![](Images_Kitchen/FabiConfig_Breakbutton.jpg)
 

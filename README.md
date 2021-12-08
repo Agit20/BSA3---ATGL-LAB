@@ -38,15 +38,15 @@ Im Temperaturgrid kann die Temperatur auf 20°C, 22°C, 24°C eingestellt werden
 
 ![](Images_Grid_Kitchen/04_LichtDimmenMain_Grid.jpg)
 
-# TEXT
+DIe Lichtsteuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst. Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% oder 65% gedimmt werden.
 
 ![](Images_Grid_Kitchen/05_Küche_Beamer_Grid.jpg)
 
-# TEXT
+Im Beamer Grid kann wie bereits erwähnt der Beamer im Wohnzimmer gesteuert werden. Es besteht die möglichkeit den Beamer ein/auszusschalten sowie die verwendete Quelle zu wechslen. 
 
 ![](Images_Grid_Kitchen/06_Radiosteuerung_Grid.jpg)
 
-# TEXT
+Das Radio Grid erlaubt es verschiedene voreingestellte Radiosender auszuwählen ( Ö1, Ö3, Hard Rock, FM4, ORF). Das Radio kann zudem ein/aus geschalten werden und die lautstärke erhöht/verringert werden. Es kann auch manuell zwischen Radiosendern gewechselt werden.
 
 ## Eingabegeräte
 # was das

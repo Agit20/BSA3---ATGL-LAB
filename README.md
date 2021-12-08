@@ -65,15 +65,15 @@ Konfiguration von Taster 1 im WEB - Interface als Pfeil "Links" Dadurch kann San
 
 ![](Images_Kitchen/FabiConfig_Breakbutton.jpg)
 
-- Text?
+PC Spiel "Hill Climber" Startbildschirm
 
 ![](Images_Kitchen/HillClimbRaceGame01.jpg)
 
-- Text?
+Beim spielen
 
 ![](Images_Kitchen/HillClimbRaceGame02.jpg)
 
-- Text?
+Kurzes Video beim spielen mit Fabi und den 2 Buttons
 
 https://user-images.githubusercontent.com/95447783/144845615-9a4815f1-15b3-4475-b079-d19f37f21ede.mp4
 

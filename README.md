@@ -151,7 +151,3 @@ https://user-images.githubusercontent.com/95447783/145010899-61f14d02-ce41-41c3-
 
 https://user-images.githubusercontent.com/95447783/145011288-497be48a-d371-412f-82ae-c16f9ab96462.mp4
 
-### Fitts Task2D - Evaluierung
-
-Hier haben wir die Evaluierung der Flip Mouse mit hilfe 
-

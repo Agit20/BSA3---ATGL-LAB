@@ -157,7 +157,7 @@ Rollstuhl mit den Anbauteilen, Flip Mouse, Fabi inkl. 2 Buttons und Laptop mit T
 
 ![](Aufbau_Sandra/02_SeitlicherAufbau.jpeg)
 
-Seitenansicht mit blick auf die Halterung. Diese wurde am Rollstuhl mit einer Schraubklemme befestigt.
+Seitenansicht mit Blick auf die Halterung. Diese wurde am Rollstuhl mit einer Schraubklemme und beweglicher Arm befestigt.
 
 ![](Aufbau_Sandra/03_Laptopbildschirm.jpeg)
 

@@ -76,7 +76,7 @@ Beim spielen
 
 https://user-images.githubusercontent.com/95447783/144845615-9a4815f1-15b3-4475-b079-d19f37f21ede.mp4
 
-Kurzes Video beim spielen mit Fabi und den 2 Buttons
+Kurzes Video beim spielen mit Fabi und den 2 Buttons via Fabi
 
 ### IR-Trans - Eingabegerät
 

@@ -31,7 +31,7 @@ Das Hauptmenü umfasst eine Auswahl der 3 verschiedenen Räume. Es werden Raumsp
 
 ![](Images_Grid_Kitchen/02_MainKüche_Grid.jpg)
 
-Dies ist das eigentliche Küchen Grid, man kann Licht allgemein ein/ausschalten (Esstisch & Arbeitslicht) zudem kann man über eine weitere Schaltfläche in ein Untermenü navigiert werden, um ddas Deckenlicht zu dimmen. Um die Temperatur einzustellen, öffnet sich wiederum ein neues Grid. Im Grid Beamer kann der Beamer im Wohnzimmer gesteuert werden. Die Jalousien werden nach Klick auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter bzw. hinauf gefahren, mit dem Befehl "Jalousien STOP" bleiben diese an der aktuellen Position stehen. Zudem verfügt das Grid über ein Radio Untergrid.  
+Dies ist das eigentliche Küchen Grid, man kann Licht allgemein ein/ausschalten (Esstisch & Arbeitslicht) zudem kann man über eine weitere Schaltfläche in ein Untermenü navigieren, um das Deckenlicht zu dimmen. Um die Temperatur einzustellen, öffnet sich wiederum ein neues Grid. Im Grid Beamer kann der Beamer im Wohnzimmer gesteuert werden. Die Jalousien werden nach Klick auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter bzw. hinauf gefahren, mit dem Befehl "Jalousien STOP" bleiben diese an der aktuellen Position stehen. Zudem verfügt das Grid über ein Radio Untergrid.  
 
 ![](Images_Grid_Kitchen/03_TemperaturMain_Grid.jpg)
 
@@ -39,7 +39,7 @@ Im Temperaturgrid kann zwischen 3 Temperaturen 20°C, 22°C und 24°C gewählt w
 
 ![](Images_Grid_Kitchen/04_LichtDimmenMain_Grid.jpg)
 
-Die Lichtsteuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst. Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35%, 65% und 100% gedimmt werden.
+Die Lichtsteuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst. Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% und 65% gedimmt werden.
 
 ![](Images_Grid_Kitchen/05_Küche_Beamer_Grid.jpg)
 

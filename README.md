@@ -80,10 +80,10 @@ Kurzes Video beim spielen mit Fabi und den 2 Buttons via Fabi
 
 ### Flip Mouse - Eingabegerät 2
 
-![](Images_FlipMouse_Küche.jpg)
+![](Images_Kitchen/FlipMouse_Küche.jpg)
 
 
-### IR-Trans - Eingabegerät
+### IR-Trans - Ausgabegerät
 
 Der erste Schritt mit dem IR Trans war es die Applikation zu installieren und die IR zu starten.
 

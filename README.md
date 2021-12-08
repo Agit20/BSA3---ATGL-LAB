@@ -88,6 +88,8 @@ Konfiguration derFlip Mouse am WEB Interface für die Funktion als Maus
 
 ![](Images_Kitchen/FittsTaskFlipMouse.jpg)
 
+Ergebnis der Fitt's Law Softwarebasierten Evaluierung nach ISO 9241-9
+
 ### IR-Trans - Ausgabegerät
 
 Der erste Schritt mit dem IR Trans war es die Applikation zu installieren und die IR zu starten.

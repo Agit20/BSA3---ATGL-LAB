@@ -43,41 +43,40 @@ DIe Lichtsteuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusa
 
 ![](Images_Grid_Kitchen/05_Küche_Beamer_Grid.jpg)
 
-Im Beamer Grid kann wie bereits erwähnt der Beamer im Wohnzimmer gesteuert werden. Es besteht die möglichkeit den Beamer ein/auszusschalten sowie die verwendete Quelle zu wechslen. 
+Im Beamer Grid kann wie bereits erwähnt der Beamer im Wohnzimmer gesteuert werden. Es besteht die Möglichkeit den Beamer Ein & Aus zuschalten sowie die verwendete Quelle auf HDMI2 zu wechseln. (Verwendeter Eingang)
 
 ![](Images_Grid_Kitchen/06_Radiosteuerung_Grid.jpg)
 
-Das Radio Grid erlaubt es verschiedene voreingestellte Radiosender auszuwählen ( Ö1, Ö3, Hard Rock, FM4, ORF). Das Radio kann zudem ein/aus geschalten werden und die lautstärke erhöht/verringert werden. Es kann auch manuell zwischen Radiosendern gewechselt werden.
+Das Radio Grid erlaubt es verschiedene voreingestellte Radiosender auszuwählen ( Ö1, Ö3, 88.6, FM4, Radio Wien). Das Radio kann zudem ein/aus geschalten werden und die lautstärke erhöht/verringert werden. Es kann auch manuell zwischen Radiosendern gewechselt werden.
 
 ## Eingabegeräte
 Als zusätzliche Eingabegeräte wurden die FlipMouse und das Fabi verwendet. Diese wurden entsprechend konfiguriert
 
 ### FABI - Eingabegerät
-Am Fabi wurden 2 Taster angeschlossen welche im WEB - Interface als Pfeil "links" und "rechts konfiguriert. Dadurch konnte Sandra das Spiel "HillClimbRacer" spielen.
 
 ![](Images_Kitchen/FabiConfig_Mainpage.jpg)
 
-Konfiguration von Taster 2 im WEB - Interface als Pfeil "Rechts" Dadurch kann Sandra beim Spiel "Hill Climb Racer" Gas geben.
+Am Fabi wurden 2 Taster angeschlossen welche im WEB - Interface als Pfeil "links" und "rechts konfiguriert. Dadurch konnte Sandra das Spiel "HillClimbRacer" spielen.
 
 ![](Images_Kitchen/FabiConfig_Acceleratebutton.jpg)
 
-Konfiguration von Taster 1 im WEB - Interface als Pfeil "Links" Dadurch kann Sandra beim Spiel "Hill Climb Racer" bremsen.
+Konfiguration von Taster 2 im WEB - Interface als Pfeil "Rechts" Dadurch kann Sandra beim Spiel "Hill Climb Racer" Gas geben.
 
 ![](Images_Kitchen/FabiConfig_Breakbutton.jpg)
 
-PC Spiel "Hill Climber" Startbildschirm
+Konfiguration von Taster 1 im WEB - Interface als Pfeil "Links" Dadurch kann Sandra beim Spiel "Hill Climb Racer" bremsen.
 
 ![](Images_Kitchen/HillClimbRaceGame01.jpg)
 
-Beim spielen
+PC Spiel "Hill Climber" Startbildschirm
 
 ![](Images_Kitchen/HillClimbRaceGame02.jpg)
 
-Kurzes Video beim spielen mit Fabi und den 2 Buttons
+Beim spielen
 
 https://user-images.githubusercontent.com/95447783/144845615-9a4815f1-15b3-4475-b079-d19f37f21ede.mp4
 
-- Text?
+Kurzes Video beim spielen mit Fabi und den 2 Buttons
 
 ### IR-Trans - Eingabegerät
 

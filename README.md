@@ -57,7 +57,7 @@ Im Beamer Grid kann wie bereits erwähnt der Beamer im Wohnzimmer gesteuert werd
 
 Das Radio Grid erlaubt es verschiedene voreingestellte Radiosender auszuwählen ( Ö1, Ö3, 88.6, FM4, Radio Wien). Das Radio kann zudem ein/aus geschalten werden und die lautstärke erhöht/verringert werden. Es kann auch manuell zwischen Radiosendern gewechselt werden.
 
-## Ein- Ausgabegeräte
+## Ein-/ Ausgabegeräte
 Als zusätzliche Eingabegeräte wurden die FlipMouse und das Fabi verwendet. Diese wurden entsprechend konfiguriert
 
 ### FABI - Eingabegerät 1

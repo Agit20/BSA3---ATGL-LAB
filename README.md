@@ -15,11 +15,11 @@ Frau Sandra besitzt bereits einen Rollstuhl, einen Laptop und ein Smartphone. Da
 
  
 
-Dass sie dennoch über gewisse körperliche Funktionen verfügt, ermöglicht einen größeren Spielraum bei der Verwendung von Hilfsmittel. Abgesehen davon, dass sie ihren Kopf bewegen kann, sind auch Daumen und Zeigefinger am linken Arm vollkommen funktionstüchtig. Die Tatsache, dass sie ihren Mund bzw. ihre Lippen bewegen kann, ermöglicht die Verwendung einer FlipMouse.  
+Dass sie dennoch über gewisse körperliche Funktionen verfügt, ermöglicht einen größeren Spielraum bei der Verwendung von Hilfsmittel. Abgesehen davon, dass sie ihren Kopf bewegen kann, sind auch Daumen und Zeigefinger am linken Arm vollkommen funktionstüchtig. Die Tatsache, dass sie ihren Mund bzw. ihre Lippen bewegen kann, ermöglicht die Verwendung einer Flip Mouse.  
 
  
 
-Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elektrogeräte wie Fernseher, Musikanlage und ihre Spielzeuge, selbstständig steuern zu können. Außerdem möchte sie den Computer insofern steuern können, sodass sie im Internet surfen und E-Mails schreiben bzw. auf diese antworten kann. Zusätzlich würde sie gerne Klänge erzeugen, Computerspiele adaptieren und Visuals mit Hilfe von Phillips Hue Go oder Infrarot Lampen kreieren. Als letzten Wunsch formulierte sie, ihr SmartPhone für kommunikative Funktionen wie Anrufe tätigen und SMS schreiben, ohne jegliche Hilfe verwenden zu wollen.  
+Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elektrogeräte wie Fernseher, Musikanlage und ihre Spielzeuge, selbstständig steuern zu können. Außerdem möchte sie den Computer insofern steuern können, sodass sie im Internet surfen und E-Mails schreiben bzw. auf diese antworten kann. Zusätzlich würde sie gerne Klänge erzeugen, Computerspiele adaptieren und visuell mit Hilfe von Phillips Hue Go oder Infrarot Lampen kreieren. Als letzten Wunsch formulierte sie, ihr Smartphone für kommunikative Funktionen wie Anrufe tätigen und SMS schreiben, ohne jegliche Hilfe verwenden zu wollen.
 #
 
 ## AsTeRICs Grid
@@ -31,7 +31,7 @@ Das Hauptmenü umfasst eine Auswahl der 3 verschiedenen Räume.
 
 ![](Images_Grid_Kitchen/02_MainKüche_Grid.jpg)
 
-Dies ist das Speziele Grid für die Küche mann kann Licht allgemein ein/ausschalten zudem kann man über eine weitere Schaltfläche in ein untermenü navigiert werden, um die Leds zu dimmen. Um die Temperatur einzustellen, öffnet sich wiederum ein neues Grid. Im Grid Beamer kann der Beamer im Wohnzimmer gesteuert werden. Die Jalousien werden nach Druck auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter/hinauf bewegt, es sei denn es wird "Jalousien STOPP" gedrückt. Zudem verfügt das Grid über ein Radio untergrid.
+Dies ist das Spezielle Grid für die Küche, man kann Licht allgemein ein/ausschalten zudem kann man über eine weitere Schaltfläche in ein Untermenü navigiert werden, um die Leds zu dimmen. Um die Temperatur einzustellen, öffnet sich wiederum ein neues Grid. Im Grid Beamer kann der Beamer im Wohnzimmer gesteuert werden. Die Jalousien werden nach Klick auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter bzw. hinauf gefahren, mit dem Befehl "Jalousien STOPP" bleiben diese an der aktuellen Position stehen. Zudem verfügt das Grid über ein Radio Untergrid.  
 
 ![](Images_Grid_Kitchen/03_TemperaturMain_Grid.jpg)
 

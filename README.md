@@ -1,8 +1,7 @@
 # ATGL - LAB Protokoll | Düzgün, Li und Wimmer
-#
+
 ## Use Case - Sandra | Küche
-#
-#
+
 ### Aufgabenstellung
 Es soll für die Klientin Sandra entsprechend der Angaben eine Lösung erarbeitet werden wodurch Sie ihren Alltag leichter bestreiten kann. Dazu haben wir mit AsTeRICS Grid, einige Bedienoberflächen kreiert und konfiguriert, dadurch wird eine Bedienung der Geräte ermöglicht. Darüber hinaus kann sie auch Spiele spielen. Die Eingabegeräte (FlipMouse & Fabi) wurden entsprechend ihrer Einschränkungen angepasst.
 
@@ -20,7 +19,6 @@ Dass sie dennoch über gewisse körperliche Funktionen verfügt, ermöglicht ein
  
 
 Die Klientin Sandra wünscht sich, Licht, Temperatur, Jalousien und etliche Elektrogeräte wie Fernseher, Musikanlage und ihre Spielzeuge, selbstständig steuern zu können. Außerdem möchte sie den Computer insofern steuern können, sodass sie im Internet surfen und E-Mails schreiben bzw. auf diese antworten kann. Zusätzlich würde sie gerne Klänge erzeugen, Computerspiele adaptieren und visuell mit Hilfe von Phillips Hue Go oder Infrarot Lampen kreieren. Als letzten Wunsch formulierte sie, ihr Smartphone für kommunikative Funktionen wie Anrufe tätigen und SMS schreiben, ohne jegliche Hilfe verwenden zu wollen.
-#
 
 ## AsTeRICs Grid
 # Raumauswahl Grid - Main Grid
@@ -49,7 +47,7 @@ Im Beamer Grid kann wie bereits erwähnt der Beamer im Wohnzimmer gesteuert werd
 
 Das Radio Grid erlaubt es verschiedene voreingestellte Radiosender auszuwählen ( Ö1, Ö3, 88.6, FM4, Radio Wien). Das Radio kann zudem ein/aus geschalten werden und die lautstärke erhöht/verringert werden. Es kann auch manuell zwischen Radiosendern gewechselt werden.
 
-## Eingabegeräte
+## Ein- Ausgabegeräte
 Als zusätzliche Eingabegeräte wurden die FlipMouse und das Fabi verwendet. Diese wurden entsprechend konfiguriert
 
 ### FABI - Eingabegerät 1
